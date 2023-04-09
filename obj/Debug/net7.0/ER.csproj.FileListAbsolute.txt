@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ER\bin\Debug\net7.0\ER.exe
+C:\Users\user\Desktop\ER\bin\Debug\net7.0\ER.deps.json
+C:\Users\user\Desktop\ER\bin\Debug\net7.0\ER.runtimeconfig.json
+C:\Users\user\Desktop\ER\bin\Debug\net7.0\ER.dll
+C:\Users\user\Desktop\ER\bin\Debug\net7.0\ER.pdb
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\ER.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\ER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\ER.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\ER.AssemblyInfo.cs
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\ER.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\ER.dll
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\refint\ER.dll
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\ER.pdb
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\ER.genruntimeconfig.cache
+C:\Users\user\Desktop\ER\obj\Debug\net7.0\ref\ER.dll
